@@ -1,4 +1,4 @@
-Hello Git World from My Computer
+Hello Git World
 
 This is a sample project students can use during Matthew's Git class.
 
