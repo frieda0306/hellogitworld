@@ -3,3 +3,4 @@
 output/
 build/
 target/
+.DS_Store
